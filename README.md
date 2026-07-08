@@ -18,3 +18,13 @@ The following architecture represents the complete end-to-end Enterprise Data Pl
 ![Architecture](architecture/architecture.png)
 
 ---
+
+---
+
+# 🔄 Data Pipeline
+
+The following diagram illustrates the complete end-to-end data pipeline implemented in this project.
+
+![Pipeline](diagrams/pipeline.png)
+
+---
